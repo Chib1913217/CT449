@@ -6,6 +6,7 @@
   "script": {
 	"start": "nodemon server.js"
   },
+
   "author": "Chi",
   "license": "ISC",
   "dependencies": {
